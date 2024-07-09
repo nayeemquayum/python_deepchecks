@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mlflow_project/.idea/mlflow_project.iml" filepath="$PROJECT_DIR$/../mlflow_project/.idea/mlflow_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_deepchecks.iml" filepath="$PROJECT_DIR$/.idea/python_deepchecks.iml" />
+    </modules>
+  </component>
+</project>
